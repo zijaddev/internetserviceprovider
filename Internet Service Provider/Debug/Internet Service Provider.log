@@ -1,0 +1,11 @@
+﻿  Funkcije.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(460,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(615,46): warning C4244: 'argument': conversion from 'long' to 'const float', possible loss of data
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(934,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(944,50): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(947,51): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(965,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(1352,57): warning C4244: 'argument': conversion from 'long' to 'const float', possible loss of data
+  Internet Service Provider.vcxproj -> C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Debug\Internet Service Provider.exe

@@ -1,0 +1,6 @@
+﻿  Funkcije.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(615,46): warning C4244: 'argument': conversion from 'long' to 'const float', possible loss of data
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(1387,57): warning C4244: 'argument': conversion from 'long' to 'const float', possible loss of data
+C:\Users\Zijad Doglod\Desktop\Internet Service Provider\Internet Service Provider\Funkcije.cpp(1603,57): warning C4244: 'argument': conversion from 'long' to 'const float', possible loss of data
+  Internet Service Provider.vcxproj -> C:\Users\Zijad Doglod\Desktop\Internet Service Provider\x64\Debug\Internet Service Provider.exe
